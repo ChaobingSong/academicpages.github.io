@@ -8,4 +8,3 @@ paperurl: 'http://chaobingsong.github.io/files/ChaobingSongNIPS2017.pdf'
 
 ---
 [Download paper here](http://chaobingsong.github.io/files/ChaobingSongNIPS2017.pdf)
-
